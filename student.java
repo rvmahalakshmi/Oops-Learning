@@ -3,4 +3,4 @@ public class student{
         A.main(args);
         B.main(args);
     }
-}
+} 
