@@ -17,3 +17,12 @@
 * If a class is default only same package classes can be imported.
 * Abstract method having only declaration but nor implementation.
 * It should ended with semicolon.
+
+# Day-3 Learned points
+* Abstract class is nothing but partially implemented classes.
+* purpose of abstract class is " The method which should implemented compulsory at child classes then that method is declared as abstract at parent class.
+* Before checking visiblity of a member  we need to check class visiblity.If class is visible then only we can think about method.
+* If a member declares as public we can access either within or outsie of the package but the corresponding class also should public.
+* If a variable or method declares as default we can access them only in current package.
+* Private is a class level modifier.
+* Protected is a modifier which is only accessble at anywhere insame package and child class of another package.
