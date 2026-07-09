@@ -12,6 +12,6 @@ public class abstractclass extends class1 {
     public static void main(String[] args){
     abstractclass a= new abstractclass();
     a.m1();
-    a.m2();;
+    a.m2();
     }
 }

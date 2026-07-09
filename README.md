@@ -25,4 +25,11 @@
 * If a member declares as public we can access either within or outsie of the package but the corresponding class also should public.
 * If a variable or method declares as default we can access them only in current package.
 * Private is a class level modifier.
-* Protected is a modifier which is only accessble at anywhere insame package and child class of another package.
+* Protected is a modifier which is only accessble at anywhere in same package and child class of another package.
+
+# Day-4 Learned points
+* interface is nothing but a "Service Requirement Specification(SRS).
+* Whenever we are implementing interface class then the methods should declare with public, and aslo implement all methods.
+* Data Hiding:By declaring variable as private we can implement Data HIding.
+* but with getters and setters we can access them.
+* Abstraction: Hiding the internal logic and at the same time time Highlight the set  of services of them.
