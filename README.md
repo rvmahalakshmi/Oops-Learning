@@ -33,3 +33,8 @@
 * Data Hiding:By declaring variable as private we can implement Data HIding.
 * but with getters and setters we can access them.
 * Abstraction: Hiding the internal logic and at the same time time Highlight the set  of services of them.
+
+# Day-5 Learned points
+* Encapsulation:datahiding+abstraction
+* If every variable inside a classs is declared as a private then it called as "Tightly encapsulated class".
+* If parent class is not tightly encapsulated then no child class will also encapsulated.
