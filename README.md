@@ -38,3 +38,11 @@
 * Encapsulation:datahiding+abstraction
 * If every variable inside a classs is declared as a private then it called as "Tightly encapsulated class".
 * If parent class is not tightly encapsulated then no child class will also encapsulated.
+# Day-6 Learned Points
+* Inheritance:Getting the parents property.
+* parent refernce= child object
+* it is used for code resuability
+* The java API are based on inheritance that means in java every class automatically extends onject class unless you specify the superclass.
+* Types of inheritance: 1).single level  inheritance 2)Multiple level Inheritance 3)multilevel inheritance 4)hierachical inheritance  5)Hybrid inheitance
+* Java  does not support multiple level inheritance but it can possible eith interface.
+* Cyclic inheritance is also not supported

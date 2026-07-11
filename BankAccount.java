@@ -20,7 +20,7 @@ class BankAcount{
     }
     public void withdraw(float amount){
        if(amount<=balance&& amount>0){
-        balance=amount-balance;
+        balance=balance-amount;
         System.out.println("Successfully withdraw");
        }
        else{
