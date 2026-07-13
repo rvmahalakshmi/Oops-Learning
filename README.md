@@ -46,3 +46,11 @@
 * Types of inheritance: 1).single level  inheritance 2)Multiple level Inheritance 3)multilevel inheritance 4)hierachical inheritance  5)Hybrid inheitance
 * Java  does not support multiple level inheritance but it can possible eith interface.
 * Cyclic inheritance is also not supported
+
+# Day-7 Learned points
+* In interface class we use default or static or abstract methods only.
+* The interface class methods should give implemention to all in the implented classes.
+* In abstract class abstract method should compulsory implemented in extendend classes.
+* Method signature:It contains method name with argument type,the compiler use this while resolving method calls.
+* Method overloading: If both methods having same name but different arguments types.
+* Method overriding: It is a featurenof oops  where a subclass or implementing class provides its own implementation of a method that already exists in its superclass or interface
