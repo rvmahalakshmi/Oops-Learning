@@ -8,10 +8,11 @@ interface y{
      default void m1(){
          System.out.println("Interface class B");
     }
-    abstract void m2();
+    abstract  void m2();
+
 }
 class inheritance implements x,y {
-  public void m1(){
+  public void m1()
          System.out.println("Inheritance class");
        }
        public void m2(){
